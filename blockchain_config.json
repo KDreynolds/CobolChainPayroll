@@ -1,0 +1,17 @@
+{
+  "chain_difficulty": 2,
+  "mining_reward": 50,
+  "blockchain_host": "localhost",
+  "blockchain_port": 5000,
+  "block_size_limit": 1,
+  "blocks_per_page": 5,
+  "hash_algorithm": "SHA-256",
+  "peer_nodes": [],
+  "genesis_block": {
+    "index": 0,
+    "previous_hash": "0",
+    "timestamp": 0,
+    "transactions": [],
+    "nonce": 0
+  }
+}
